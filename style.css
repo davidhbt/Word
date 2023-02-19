@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(94, 94, 236);
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
